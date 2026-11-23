@@ -5,4 +5,4 @@
 :HL["/ags-akademi/_next/static/media/77814b00d5ca94a4-s.p.21jp631_3pja2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"icerik-durumu","h":96,"c":"$Q2"}]]
-0:{"b":"EfqQa7FC6K6u7BRzjzGNm","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"a_eOh4V66csM0N_wz78vG","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
