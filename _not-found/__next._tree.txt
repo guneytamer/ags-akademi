@@ -1,4 +1,4 @@
 :HL["/ags-akademi/_next/static/chunks/456yh_jxemmbs.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"T80f_JICdvz1u6S9vWvuD","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"kpw6RfU3DW-_bHlLq6NKx","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
