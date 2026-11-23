@@ -1,4 +1,4 @@
-:HL["/ags-akademi/_next/static/chunks/2-1e39k9v-e50.css","style"]
+:HL["/ags-akademi/_next/static/chunks/2hk_kivf61uli.css","style"]
 :HL["/ags-akademi/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ags-akademi/_next/static/media/2a04751c893bf294-s.p.1rgnod-3esatf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ags-akademi/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -7,4 +7,4 @@
 3:[["children",{"s":{"n":"topicId","t":"d","k":"temel-matematik","s":[]},"h":65632,"c":"$Q4"}]]
 2:[["children",{"s":{"n":"subjectId","t":"d","k":"sayisal-yetenek","s":[]},"h":196704,"c":"$Q3"}]]
 1:[["children",{"s":"dersler","h":131168,"c":"$Q2"}]]
-0:{"b":"a_eOh4V66csM0N_wz78vG","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"2qO2KcMrSRm_YxgCRpM6c","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
