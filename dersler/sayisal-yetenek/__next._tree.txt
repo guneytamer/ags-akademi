@@ -6,4 +6,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"subjectId","t":"d","k":"sayisal-yetenek","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"dersler","h":131168,"c":"$Q2"}]]
-0:{"b":"2qO2KcMrSRm_YxgCRpM6c","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"4vh5V0kZUL0ac4CXSkT5U","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
