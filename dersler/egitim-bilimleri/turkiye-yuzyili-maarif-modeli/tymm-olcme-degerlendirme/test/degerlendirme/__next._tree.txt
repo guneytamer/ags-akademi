@@ -1,0 +1,13 @@
+:HL["/ags-akademi/_next/static/chunks/456yh_jxemmbs.css","style"]
+:HL["/ags-akademi/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ags-akademi/_next/static/media/2a04751c893bf294-s.p.1rgnod-3esatf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ags-akademi/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ags-akademi/_next/static/media/77814b00d5ca94a4-s.p.21jp631_3pja2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+7:[["children",{"s":"__PAGE__","h":160}]]
+6:[["children",{"s":{"n":"kind","t":"d","k":"degerlendirme","s":[]},"h":65632,"c":"$Q7"}]]
+5:[["children",{"s":"test","h":131168,"c":"$Q6"}]]
+4:[["children",{"s":{"n":"subtopicId","t":"d","k":"tymm-olcme-degerlendirme","s":[]},"h":196704,"c":"$Q5"}]]
+3:[["children",{"s":{"n":"topicId","t":"d","k":"turkiye-yuzyili-maarif-modeli","s":[]},"h":196704,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"subjectId","t":"d","k":"egitim-bilimleri","s":[]},"h":196704,"c":"$Q3"}]]
+1:[["children",{"s":"dersler","h":131168,"c":"$Q2"}]]
+0:{"b":"fhiRL4-ScI3yhxmcxkD30","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
